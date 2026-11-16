@@ -1,0 +1,7 @@
+2. 
+model
+    NameRegister
+view
+    UserInterface
+controller
+    NameRegistryApp
